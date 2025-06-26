@@ -1,7 +1,7 @@
 # Basic-python-tasks
 <h3>Python scripts for Task 1 and Task 2</h3>
 <br> 
-<b></b>assignment3_task1.py
+<b>assignment3_task1.py
 <br> 
 assignment3_task2.py
 </b>
